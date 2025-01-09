@@ -10,9 +10,11 @@ The pivotal clustering tree from the paper "**Significance-based Interpretable S
 
 To view the final performance results as presented in the paper, simply run `main.m` in Matlab.
 
+
+
 <div align="left">     <img src="./pioneer_tree.svg" alt="pioneer_tree" style="zoom:30%;" /> </div>
 
 ### Datasets Used
 
-File `Sequence2BinaryData` file contains 14 real-world sequential datasets that have been profiled by specific patterns. These patterns have been mined using the "Sequential Pattern Discovery under Multiple Constraints" method ([PatternMining.py](https://github.com/JinfengHe/SigISC/blob/master/PatternMining.py)).  
+File `Sequence2BinaryData` contains 14 real-world sequential datasets that have been profiled by specific patterns. These patterns have been mined using the "Sequential Pattern Discovery under Multiple Constraints" method ([PatternMining.py](https://github.com/JinfengHe/SigISC/blob/master/PatternMining.py)).  
 
