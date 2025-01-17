@@ -8,7 +8,9 @@ The significance-based clustering tree from the paper "**Significance-based Inte
 
 To view the final performance results as presented in the paper, simply run `main.m` in Matlab.
 
-<div align="left"> <img src="./pioneer_tree.svg" alt="pioneer_tree" style="zoom:10%;" /> </div>
+<div align="left">
+  <img src="./pioneer_tree.svg" alt="pioneer_tree" width="30%" />
+</div>
 
 ### Datasets Used
 
