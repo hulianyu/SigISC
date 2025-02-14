@@ -1,4 +1,6 @@
-# SigISC
+# Significance-based interpretable sequence clustering
+https://www.sciencedirect.com/science/article/pii/S0020025525001045
+
 
 ### Implementation Highlight
 
