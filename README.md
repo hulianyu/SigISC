@@ -15,9 +15,8 @@ To view the final performance results as presented in the paper, simply run `mai
 
 The folder `Sequence2BinaryData` contains 14 real-world sequential datasets that have been profiled by specific patterns. These patterns have been mined using the "**Sequential Pattern Discovery under Multiple Constraints**" method ([PatternMining.py](https://github.com/JinfengHe/SigISC/blob/master/PatternMining.py)).
 
----
 
-# Comparison Methods
+## Comparison Methods
 
 This folder `Comparison` contains scripts for comparing various interpretable clustering methods, including IMM, SHA, and CUBT. The input data for these methods is identical to that used for constructing the decision tree with SigISC, as provided in the `Sequence2BinaryData` folder (.mat format in the main directory or .txt format in the `Comparison` directory). For the ISCT method, please refer to the official PyPI [page](https://pypi.org/project/ISCT/).
 
@@ -33,4 +32,17 @@ This folder `Comparison` contains scripts for comparing various interpretable cl
    - Download the compressed file `venv.7z` from [here](https://github.com/hulianyu/SigTree/tree/main/ComparedMethods).
    - Extract the file and import the environment as your Python interpreter (on Windows) to run the script.
 
----
+## Citation
+
+If you find my code useful please consider citing:
+
+    @article{SigISC2025,
+      title = {Significance-based interpretable sequence clustering},
+      author = {Zengyou He and Lianyu Hu and Jinfeng He and Junjie Dong and Mudi Jiang and Xinying Liu},
+      journal = {Information Sciences},
+      volume = {704},
+      pages = {121972},
+      year = {2025},
+      doi = {https://doi.org/10.1016/j.ins.2025.121972}
+      }
+
